@@ -19,24 +19,6 @@ public class A_plus_B {
 //	      }
 		
 		// A+B -5
-//		Scanner scanner = new Scanner(System.in);
-//	    int a, b;
-//	    int i = 0;
-//	    int x[] = new int[100];
-//	    while(true){
-//		    a = scanner.nextInt();
-//		    b = scanner.nextInt();
-//		    if(a !=0 || b!=0) {
-//		    	x[i] = a+b;
-//		    	i++;
-//		    }
-//		    else {
-//		    	for(int j=0; j<i; j++) {
-//		 	       System.out.println(x[j]);
-//		 	      }
-//		    	break;
-//		    }
-//	    }
 		Scanner scanner = new Scanner(System.in);
 	    int a= 1; 
 	    int b = 1;
