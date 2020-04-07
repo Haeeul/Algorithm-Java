@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class A_plus_B {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//A+B 3¹ø
 //		Scanner scanner = new Scanner(System.in);
 //	      int x, a, b;
