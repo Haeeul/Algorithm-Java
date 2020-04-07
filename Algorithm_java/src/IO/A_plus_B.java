@@ -5,7 +5,7 @@ public class A_plus_B {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//A+B - 3
+		//A+B 3번
 //		Scanner scanner = new Scanner(System.in);
 //	      int x, a, b;
 //	      System.out.print("실행할 연산 횟수를 입력하세요 :");
@@ -18,7 +18,7 @@ public class A_plus_B {
 //	         System.out.println(a + b);
 //	      }
 		
-		// A+B -5
+		// A+B 5번
 		Scanner scanner = new Scanner(System.in);
 	    int a= 1; 
 	    int b = 1;
