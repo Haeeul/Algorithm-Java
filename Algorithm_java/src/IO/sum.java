@@ -2,7 +2,7 @@ package IO;
 
 import java.util.Scanner;
 
-public class Sum {
+public class sum {
 	public static void main(String[] args) {
 		//11720_숫자의 합
 		Scanner scanner = new Scanner(System.in);
