@@ -1,7 +1,7 @@
-package chap01;
+package chap01_Practice;
 
 // 연습문제 01
-public class Practice_Max4 {
+public class P_01_Max4 {
 	// a,b,c,d의 최댓값을 구하여 반환
 	static int Max4(int a, int b, int c, int d) {
 		int max = a;

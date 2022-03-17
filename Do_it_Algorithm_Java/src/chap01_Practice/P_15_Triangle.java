@@ -1,8 +1,8 @@
-package chap01;
+package chap01_Practice;
 
 import java.util.Scanner;
 
-public class Practice_Triangle {
+public class P_15_Triangle {
 	// 왼쪽 아래 직각
 	static void triangleLB(int n) {
 		for(int i = 1; i<=n; i++) {

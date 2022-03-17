@@ -1,8 +1,8 @@
-package chap01;
+package chap01_Practice;
 
 import java.util.Scanner;
 
-public class Practice_SumOf {
+public class P_09_SumOf {
 	static int sumof(int a, int b) {
 		int min, max;
 		

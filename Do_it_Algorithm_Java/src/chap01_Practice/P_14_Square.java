@@ -1,8 +1,8 @@
-package chap01;
+package chap01_Practice;
 
 import java.util.Scanner;
 
-public class Practice_Square {
+public class P_14_Square {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
 		int n;

@@ -1,6 +1,6 @@
-package chap01;
+package chap01_Practice;
 
-public class Practice_Med3 {
+public class P_05_Med3 {
 	static int med3 (int a, int b, int c) {
 		if((b >= a && c <= a) || (b <= a && c >= a))
 			return a;

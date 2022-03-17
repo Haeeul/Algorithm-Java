@@ -1,7 +1,7 @@
-package chap01;
+package chap01_Practice;
 
 // 연습문제 02
-public class Practice_Min {
+public class P_02_Min {
 	static int Min3(int a, int b, int c) {
 		int min = a;
 		
